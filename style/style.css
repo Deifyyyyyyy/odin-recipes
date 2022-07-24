@@ -1,0 +1,55 @@
+body{
+    background-color: beige;
+}
+
+h1, h3{
+    text-align: center;
+    font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif; 
+    color: rgb(160, 129, 108);
+}
+
+h1{
+    font-size: 45px;
+}
+
+h3{
+    font-size: 25px;
+}
+
+img{
+    height: auto;
+    width: 30%;
+    max-width: 40%;
+    display: block;
+    margin: 30px auto;
+}
+
+div, p{
+    background: #bfab8d;
+    color: white;
+    width: 80%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 20px;
+}
+
+ul li{
+    list-style-type: square;
+}
+
+.hlinks{
+    width: 30%;
+    font-size: 25px;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: black;
+}
+
